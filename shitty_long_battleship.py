@@ -1,7 +1,6 @@
 from random import randint
 
 # This is the multiple square per ship version, where you play against a computer #
-# The computer is a moron and only chooses randomly, though #
 # Also, this version only has one ship #
 ##### Functions up here #####
 
